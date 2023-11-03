@@ -1,0 +1,16 @@
+
+Functionality of the code: 
+The code predicts if an flight will be delayed using machine learning.
+It employs a trained algorithm to create predictions based on input variables such as departure time, airline, weather conditions, and more.
+
+User Run: 
+Check that Python and any required libraries are installed.
+Download the source code and data.
+Open a command prompt, terminal or and IDE.
+Go to the code's directory.
+Use Radhey_Assignmentfile.py to run the code. 
+
+User Output:
+
+The code will then utilise the trained model to forecast whether or not the flight will be delayed.
+This code will provide a analysis, Model comparision on the bases of the flight data
